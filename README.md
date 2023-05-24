@@ -26,13 +26,5 @@ The form collects the user's name, date of birth, email, and phone number.
 ![image](https://user-images.githubusercontent.com/80270676/216237500-827bd383-e030-4a70-a826-7ed1ed0e868f.png)
 
 
-## **Installation**
-1) Clone the repository: git clone https://github.com/Aakash1049/stack-fusion.git
-2) Install dependencies: npm install
-3) Start the development server: npm run dev
-
-## **Demo Video Link**
-https://www.youtube.com/watch?v=Xyigu1vt_58
-
 ## **Deployment**
 The application has been deployed to a free cloud server Render. You can access the live link [here](https://stack-fusion-assignment-full-stack.onrender.com/).
